@@ -1,5 +1,9 @@
 # FAQ
 
+## Is it easy to edit this thing?
+
+Don't worry. It isn't too bad. 
+
 ## Can I become who I want to be?
 
 That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
