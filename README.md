@@ -4,7 +4,7 @@
 
 This is just a dummy project written with the sole intention of testing the gitbook platform. Check the [How to configure and access codecommit repositories](guides/how-to-configure-and-access-codecommit-repositories.md) guide for a more complete page example
 
-### TODO
+## TODO
 
 * [x] Test github sync
 * [x] Test insert images
@@ -17,7 +17,7 @@ This is just a dummy project written with the sole intention of testing the gitb
 * [x] Test making some changes here and see how github desktop shows them
 * [ ] This is a dummy task
 
-### Sample attached file should appear below
+## Random test, attaching a file to the page
 
 {% file src=".gitbook/assets/kalpurush.ttf" caption="TrueType font sample" %}
 
