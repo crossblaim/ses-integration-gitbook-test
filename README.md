@@ -14,7 +14,7 @@ This is just a dummy project written with the sole intention of testing the gitb
 * [x] Test attach files
 * [x] Test edit locally in my favorite editor
 * [x] Test add page locally, directly in the repository
-* [X] Test making some changes here and see how github desktop shows them
+* [x] Test making some changes here and see how github desktop shows them
 * [ ] This is a dummy task
 
 ### Sample attached file should appear below
