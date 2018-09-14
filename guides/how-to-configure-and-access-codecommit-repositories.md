@@ -6,7 +6,7 @@
 * In the IAM console, in the navigation pane, choose Users, and from the list of users, choose your IAM user.
 * On the Security Credentials tab, choose Upload SSH public key.
 * Paste the contents of your SSH public key into the field, and then choose Upload SSH Key.
-  
+
 {% hint style="info" %}
 The public/private key pair must be SSH-2 RSA, in OpenSSH format, and contain 2048 bits. The key will look similar to this:
 

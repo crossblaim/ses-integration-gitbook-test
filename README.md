@@ -17,7 +17,8 @@ This is just a dummy task list
 * [x] Test Child and nested pages
 * [x] Test attach files
 * [x] Test edit locally in my favorite editor
-* [ ] Test add page locally
+* [x] Test add page locally, directly in the repository
+* [ ] Test making some changes here and see how github desktop shows them
 * [ ] This is a dummy task
 
 ### Sample attached file should appear below

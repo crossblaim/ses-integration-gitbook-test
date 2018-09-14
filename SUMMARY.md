@@ -12,5 +12,5 @@
 
 * [How to configure and access codecommit repositories](guides/how-to-configure-and-access-codecommit-repositories.md)
 * [How to add a new office to Amazon SES](guides/how-to-add-a-new-office-to-amazon-ses.md)
-* [How to edit the documentation locally](guides/how-to-edit-the-documentation-locally.md) 
+* [How to edit the documentation locally](guides/how-to-edit-the-documentation-locally.md)
 
