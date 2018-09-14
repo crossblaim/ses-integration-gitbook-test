@@ -1,23 +1,6 @@
-# How to add a new office to Amazon SES
+# README
 
-## Log in to the AWS console at aws.amazon.com
+## Welcome to the amazon SES integration project
 
-* Click on “Services” and search for SES \(Simple Email Service\)
-
-![](.gitbook/assets/1.jpg)
-
-{% hint style="warning" %}
-Your AWS region might be different
-{% endhint %}
-
-## Configure the client's email address
-
-* Click “Rule Sets” in the sidebar.
-* Click “View Active Rule Set”.
-
-![](.gitbook/assets/2.jpg)
-
-* Click "Production"
-
-![](.gitbook/assets/3.jpg)
+This is just a dummy project written with the sole intention of testing the gitbook platform. Check the [How to configure and access codecommit repositories](guides/how-to-configure-and-access-codecommit-repositories.md) guide for a more complete page example.
 
