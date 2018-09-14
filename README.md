@@ -14,6 +14,7 @@ This is just a dummy task list
 * [x] Test insert images
 * [x] Test code snippets
 * [x] Test Versions
+* [x] Test Child and nested pages
 * [ ] This is a dummy task
 
 
