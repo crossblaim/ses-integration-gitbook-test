@@ -8,5 +8,5 @@
 ## Guides
 
 * [How to configure and access codecommit repositories](guides/how-to-configure-and-access-codecommit-repositories.md)
-* [How to add a new office to Amazon SES](guides/test.md)
+* [How to add a new office to Amazon SES](guides/how-to-add-a-new-office-to-amazon-ses.md)
 
