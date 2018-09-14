@@ -4,6 +4,7 @@
 * [FAQ](faq.md)
 * [Changelog](changelog.md)
 * [Firefield](https://firefield.com)
+* [Embed tests](embed-tests.md)
 
 ## Guides
 
