@@ -1,4 +1,12 @@
 # Table of contents
 
-* [How to add a new office to Amazon SES](README.md)
+* [README](README.md)
+* [FAQ](faq.md)
+* [Changelog](changelog.md)
+* [Firefield](https://firefield.com)
+
+## Guides
+
+* [How to configure and access codecommit repositories](guides/how-to-configure-and-access-codecommit-repositories.md)
+* [How to add a new office to Amazon SES](guides/test.md)
 
