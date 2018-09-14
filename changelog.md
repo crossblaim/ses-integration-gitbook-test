@@ -1,5 +1,9 @@
 # Changelog
 
+{% hint style="warning" %}
+This is a dummy page using the "Changelog" template provided by gitbook.
+{% endhint %}
+
 ## 15.0.0 - 2042-12-03
 
 ### Fixed
