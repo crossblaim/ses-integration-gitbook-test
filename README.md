@@ -17,6 +17,7 @@ This is just a dummy task list
 * [x] Test Child and nested pages
 * [x] Test attach files
 * [x] Test edit locally in my favorite editor
+* [ ] Test add page locally
 * [ ] This is a dummy task
 
 ### Sample attached file should appear below
