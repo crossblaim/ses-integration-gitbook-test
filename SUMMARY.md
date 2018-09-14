@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [How to add a new office to Amazon SES](README.md)
 
