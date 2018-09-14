@@ -15,7 +15,10 @@ This is just a dummy task list
 * [x] Test code snippets
 * [x] Test Versions
 * [x] Test Child and nested pages
+* [x] Test attach files
 * [ ] This is a dummy task
 
+### Sample attached file should appear below
 
+{% file src=".gitbook/assets/kalpurush.ttf" caption="TrueType font sample" %}
 
