@@ -6,10 +6,6 @@ This is just a dummy project written with the sole intention of testing the gitb
 
 ### TODO
 
-{% hint style="info" %}
-This is just a dummy task list
-{% endhint %}
-
 * [x] Test github sync
 * [x] Test insert images
 * [x] Test code snippets
