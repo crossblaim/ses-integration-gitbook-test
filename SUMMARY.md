@@ -2,6 +2,7 @@
 
 * [README](README.md)
 * [FAQ](faq.md)
+* [arc42 template](arc42.md)
 * [Changelog](changelog.md)
 * [Firefield](https://firefield.com)
 * [Embed tests](embed-tests/README.md)
