@@ -1,199 +1,123 @@
-# About arc42
+# arc42 template
 
-arc42, the Template for documentation of software and system
-architecture.
+arc42, the Template for documentation of software and system architecture.
 
 By Dr. Gernot Starke, Dr. Peter Hruschka and contributors.
 
-Template Revision: 7.0 EN (based on asciidoc), January 2017
+Template Revision: 7.0 EN \(based on asciidoc\), January 2017
 
-© We acknowledge that this document uses material from the arc 42
-architecture template, <http://www.arc42.de>. Created by Dr. Peter
-Hruschka & Dr. Gernot Starke.
+© We acknowledge that this document uses material from the arc 42 architecture template, [http://www.arc42.de](http://www.arc42.de). Created by Dr. Peter Hruschka & Dr. Gernot Starke.
 
 ## Introduction and Goals
 
 ### Requirements Overview
 
-
 ### Quality Goals
 
+| Quality | Motivation |
+| :--- | :--- |
+|  Understandability | The functional requirements are simple enough to allow a simple, understandable solution that allows focus on learning about new Java 8 features, Spring Boot and AngularJS. |
+|  Efficiency | Collecting milage data should be a no brainer: Reading the milage from an odometer and entering it. |
 
 ### Stakeholders
 
+| Role/Name | Contact | Expectations |
+| :--- | :--- | :--- |
+| Claudio | claudio@firefield.com | Donuts |
 
 ## Architecture Constraints
 
-
 ## System Scope and Context
-
 
 ### Business Context
 
-
-**<Diagram or Table>**
-
-**<optionally: Explanation of external domain interfaces>**
-
 ### Technical Context
 
-
-**<Diagram or Table>**
-
-**<optionally: Explanation of technical interfaces>**
-
-**<Mapping Input/Output to Channels>**
-
 ## Solution Strategy
-
 
 ## Building Block View
 
 ### Whitebox Overall System
 
-
-***<Overview Diagram>***
-
 Motivation
 
-:   *<text explanation>*
+: 
 
 Contained Building Blocks
 
-:   *<Description of contained building block (black boxes)>*
+: 
 
 Important Interfaces
 
-:   *<Description of important interfaces>*
+: 
 
-#### <Name black box 1>
+_&lt;\(Optional\) Quality/Performance Characteristics&gt;_
 
-*<Purpose/Responsibility>*
+_&lt;\(Optional\) Directory/File Location&gt;_
 
-*<Interface(s)>*
+_&lt;\(Optional\) Fulfilled Requirements&gt;_
 
-*<(Optional) Quality/Performance Characteristics>*
-
-*<(Optional) Directory/File Location>*
-
-*<(Optional) Fulfilled Requirements>*
-
-*<(optional) Open Issues/Problems/Risks>*
-
-#### <Name black box 2>
-
-*<black box template>*
-
-
-#### <Name interface 1>
+_&lt;\(optional\) Open Issues/Problems/Risks&gt;_
 
 …
 
-#### <Name interface m>
-
 ### Level 2
 
+#### White Box 
 
-#### White Box *<building block 1>*
+#### White Box 
 
-*<white box template>*
-
-#### White Box *<building block 2>*
-
-*<white box template>*
-
-
-#### White Box *<building block m>*
-
-*<white box template>*
+#### White Box 
 
 ### Level 3
 
+#### White Box &lt;\_building block x.1\_&gt;
 
-#### White Box <\_building block x.1\_>
+#### White Box &lt;\_building block x.2\_&gt;
 
-*<white box template>*
-
-#### White Box <\_building block x.2\_>
-
-*<white box template>*
-
-#### White Box <\_building block y.1\_>
-
-*<white box template>*
+#### White Box &lt;\_building block y.1\_&gt;
 
 ## Runtime View
 
-
-### <Runtime Scenario 1>
-
-
-
-### <Runtime Scenario 2>
-
-
-### <Runtime Scenario n>
-
-
 ## Deployment View
-
 
 ### Infrastructure Level 1
 
-
-***<Overview Diagram>***
-
 Motivation
 
-:   *explanation in text form*
+: _explanation in text form_
 
 Quality and/or Performance Features
 
-:   *explanation in text form*
+: _explanation in text form_
 
 Mapping of Building Blocks to Infrastructure
 
-:   *description of the mapping*
+: _description of the mapping_
 
 ### Infrastructure Level 2
 
-
-#### *<Infrastructure Element 1>*
-
-*<diagram + explanation>*
-
-#### *<Infrastructure Element 2>*
-
-*<diagram + explanation>*
-
-
-#### *<Infrastructure Element n>* 
-
-*<diagram + explanation>*
-
 ## Cross-cutting Concepts
 
+### _concept 1_
 
-### *concept 1*
-
-
-*explanation1*
-
+_explanation1_
 
 ## Design Decisions
-
 
 ## Quality Requirements
 
 ### Quality Tree
 
-
 ### Quality Scenarios
 
 ## Risks and Technical Debts
 
-
 ## Glossary
+
+| Term | Definition |
+| :--- | :--- |
+| Term1 | Definition1 |
 
 
 
