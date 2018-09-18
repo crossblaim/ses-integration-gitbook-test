@@ -15,8 +15,8 @@ This is just a dummy project written with the sole intention of testing the gitb
 * [x] Test edit locally in my favorite editor
 * [x] Test add page locally, directly in the repository
 * [x] Test making some changes here and see how github desktop shows them
-* [ ] Test importing an existing space repo into a different space
-* [x] Test syncing two equal spaces with a single repo
+* [x] Test importing an existing space repo into a different space
+* [x] --Test syncing two equal spaces with a single repo--
 * [ ] This is a dummy task
 
 ## Random test, attaching a file to the page
