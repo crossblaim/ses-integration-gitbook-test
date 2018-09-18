@@ -19,5 +19,5 @@ Your AWS region might be different
 
 * Click "Production"
 
-![](../.gitbook/assets/3.jpg)
+![](../.gitbook/assets/3%20%281%29.jpg)
 
