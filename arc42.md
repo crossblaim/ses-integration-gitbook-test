@@ -16,8 +16,8 @@ Template Revision: 7.0 EN \(based on asciidoc\), January 2017
 
 | Quality | Motivation |
 | :--- | :--- |
-|  Understandability | The functional requirements are simple enough to allow a simple, understandable solution that allows focus on learning about new Java 8 features, Spring Boot and AngularJS. |
-|  Efficiency | Collecting milage data should be a no brainer: Reading the milage from an odometer and entering it. |
+| Understandability | The functional requirements are simple enough to allow a simple, understandable solution that allows focus on learning about new Java 8 features, Spring Boot and AngularJS. |
+| Efficiency | Collecting milage data should be a no brainer: Reading the milage from an odometer and entering it. |
 
 ### Stakeholders
 
@@ -41,15 +41,15 @@ Template Revision: 7.0 EN \(based on asciidoc\), January 2017
 
 Motivation
 
-: 
+:
 
 Contained Building Blocks
 
-: 
+:
 
 Important Interfaces
 
-: 
+:
 
 _&lt;\(Optional\) Quality/Performance Characteristics&gt;_
 
@@ -63,11 +63,11 @@ _&lt;\(optional\) Open Issues/Problems/Risks&gt;_
 
 ### Level 2
 
-#### White Box 
+#### White Box
 
-#### White Box 
+#### White Box
 
-#### White Box 
+#### White Box
 
 ### Level 3
 
@@ -118,6 +118,4 @@ _explanation1_
 | Term | Definition |
 | :--- | :--- |
 | Term1 | Definition1 |
-
-
 
