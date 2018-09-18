@@ -7,7 +7,7 @@
 * [Firefield](https://firefield.com)
 * [Embed tests](embed-tests/README.md)
   * [Youtube embed](embed-tests/youtube-embed.md)
-  * [Medium article embed](embed-tests/medium-article-embed.md)
+  * [Medium article embed](embed-tests/medium-article-embed-changed.md)
 
 ## Guides
 

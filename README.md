@@ -2,7 +2,9 @@
 
 ## Welcome to the amazon SES integration project
 
-This is just a dummy project written with the sole intention of testing the gitbook platform. Check the [How to configure and access codecommit repositories](guides/how-to-configure-and-access-codecommit-repositories.md) guide for a more complete page example
+This is just a dummy project written with the sole intention of testing the gitbook platform. Check the [How to configure and access codecommit repositories](guides/how-to-configure-and-access-codecommit-repositories.md) guide for a more complete page example.
+
+Here is a link to other page in the same space: [Medium article embed](embed-tests/medium-article-embed-changed.md).
 
 ## TODO
 
@@ -17,6 +19,7 @@ This is just a dummy project written with the sole intention of testing the gitb
 * [x] Test making some changes here and see how github desktop shows them
 * [x] Test importing an existing space repo into a different space
 * [x] ~~Test syncing two equal spaces with a single repo~~
+* [ ] Test links to other pages and spaces
 * [ ] This is a dummy task
 
 ## Random test, attaching a file to the page
