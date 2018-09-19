@@ -22,7 +22,7 @@ Here is a link to other page in the same space: [Medium article embed](embed-tes
 * [x] Test links to other pages within the same space
 * [x] ~~Test links to other pages in a different space~~
 * [ ] This is a dummy task
-* [ ] Test search foobarwadus
+* [ ] Test search foobarwadus morewadus
 
 ## Random test, attaching a file to the page
 
