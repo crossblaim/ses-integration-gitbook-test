@@ -6,6 +6,7 @@
 * [Changelog](changelog.md)
 * [Firefield](https://firefield.com)
 * [Embed tests](embed-tests/README.md)
+  * [Link added in the repo](embed-tests/link-added-in-the-repo.md)
   * [Youtube embed](embed-tests/youtube-embed.md)
   * [Medium article embed](embed-tests/medium-article-embed-changed.md)
   * [Images](embed-tests/images.md)
