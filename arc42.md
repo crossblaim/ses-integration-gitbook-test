@@ -41,11 +41,7 @@ Template Revision: 7.0 EN \(based on asciidoc\), January 2017
     </tr>
   </thead>
   <tbody></tbody>
-</table>| Role/Name | Contact | Expectations |
-| :--- | :--- | :--- |
-| Claudio | claudio@firefield.com | Donuts |
-
-## Architecture Constraints
+</table>## Architecture Constraints
 
 ## System Scope and Context
 
