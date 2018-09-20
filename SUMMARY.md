@@ -9,6 +9,7 @@
   * [Youtube embed](embed-tests/youtube-embed.md)
   * [Medium article embed](embed-tests/medium-article-embed-changed.md)
   * [Images](embed-tests/images.md)
+* [Page added directly in the repo](page-added-directly-in-the-repo.md)
 
 ## Guides
 
